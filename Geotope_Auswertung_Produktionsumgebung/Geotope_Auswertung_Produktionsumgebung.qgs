@@ -19,132 +19,132 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-layer id="geotope_fundstelle_grabung_b8b7aa72_cdcd_4c1a_8bc3_77de16cc6ad3" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_fundstelle_grabung&quot; (geometrie) sql=" name="Fundstelle_Grabung" providerKey="postgres">
+    <layer-tree-layer id="geotope_fundstelle_grabung_b8b7aa72_cdcd_4c1a_8bc3_77de16cc6ad3" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_fundstelle_grabung&quot; (geometrie) sql=" name="Fundstelle_Grabung" providerKey="postgres">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer id="geotope_quelle_dffd0651_53d3_4372_9413_b3062385de4c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_quelle&quot; (geometrie) sql=" name="Quelle" providerKey="postgres">
+    <layer-tree-layer id="geotope_quelle_dffd0651_53d3_4372_9413_b3062385de4c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_quelle&quot; (geometrie) sql=" name="Quelle" providerKey="postgres">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer id="geotope_hoehle_c690ca48_5c64_4950_87e3_1cb3fa4cbfce" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_hoehle&quot; (geometrie) sql=" name="Höhle" providerKey="postgres">
+    <layer-tree-layer id="geotope_hoehle_c690ca48_5c64_4950_87e3_1cb3fa4cbfce" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_hoehle&quot; (geometrie) sql=" name="Höhle" providerKey="postgres">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer id="geotope_erratiker_ffbfcebb_3e22_44e1_8f7f_db4fdc79385c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_erratiker&quot; (geometrie) sql=" name="Erratiker" providerKey="postgres">
+    <layer-tree-layer id="geotope_erratiker_ffbfcebb_3e22_44e1_8f7f_db4fdc79385c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_erratiker&quot; (geometrie) sql=" name="Erratiker" providerKey="postgres">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer id="geotope_aufschluss_7e01f829_ee8e_4b50_a9f6_111f07de2ad5" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_aufschluss&quot; (geometrie) sql=" name="Aufschluss" providerKey="postgres">
+    <layer-tree-layer id="geotope_aufschluss_7e01f829_ee8e_4b50_a9f6_111f07de2ad5" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_aufschluss&quot; (geometrie) sql=" name="Aufschluss" providerKey="postgres">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer id="geotope_landschaftsform_89933efd_facd_4043_bf5d_50596d1b2d0c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_landschaftsform&quot; (geometrie) sql=" name="Landschaftsform" providerKey="postgres">
+    <layer-tree-layer id="geotope_landschaftsform_89933efd_facd_4043_bf5d_50596d1b2d0c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geotope_landschaftsform&quot; (geometrie) sql=" name="Landschaftsform" providerKey="postgres">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Werte">
       <customproperties/>
-      <layer-tree-layer id="landschaftstyp_1c8def3d_0817_4483_8f1f_fe68d5f16fe1" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;landschaftstyp&quot; sql=" name="landschaftstyp" providerKey="postgres">
+      <layer-tree-layer id="landschaftstyp_1c8def3d_0817_4483_8f1f_fe68d5f16fe1" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;landschaftstyp&quot; sql=" name="landschaftstyp" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="oberflaechenform_aufschluss_fa8c3fca_ace0_4faf_b7d6_d055c21b0243" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_aufschluss&quot; sql=" name="oberflaechenform_aufschluss" providerKey="postgres">
+      <layer-tree-layer id="oberflaechenform_aufschluss_fa8c3fca_ace0_4faf_b7d6_d055c21b0243" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_aufschluss&quot; sql=" name="oberflaechenform_aufschluss" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="oberflaechenform_landschaftsform_326113b8_93ce_4ee1_9fa5_89af6965fb71" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_landschaftsform&quot; sql=" name="oberflaechenform_landschaftsform" providerKey="postgres">
+      <layer-tree-layer id="oberflaechenform_landschaftsform_326113b8_93ce_4ee1_9fa5_89af6965fb71" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_landschaftsform&quot; sql=" name="oberflaechenform_landschaftsform" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="gesteinsart_0a60dae5_d332_411c_8fd1_02ca3dd2d3f9" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;gesteinsart&quot; sql=" name="gesteinsart" providerKey="postgres">
+      <layer-tree-layer id="gesteinsart_0a60dae5_d332_411c_8fd1_02ca3dd2d3f9" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;gesteinsart&quot; sql=" name="gesteinsart" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geowissenschaftlicher_wert_74e13d39_c571_48de_806f_bbb072a74d52" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geowissenschaftlicher_wert&quot; sql=" name="geowissenschaftlicher_wert" providerKey="postgres">
+      <layer-tree-layer id="geowissenschaftlicher_wert_74e13d39_c571_48de_806f_bbb072a74d52" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geowissenschaftlicher_wert&quot; sql=" name="geowissenschaftlicher_wert" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="petrografie_bba14e15_6ecd_4347_84d2_9346e540c731" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;petrografie&quot; sql=" name="petrografie" providerKey="postgres">
+      <layer-tree-layer id="petrografie_bba14e15_6ecd_4347_84d2_9346e540c731" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;petrografie&quot; sql=" name="petrografie" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="rechtsstatus_ee3be63d_36d9_4d17_80c3_5961d1e76699" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;rechtsstatus&quot; sql=" name="rechtsstatus" providerKey="postgres">
+      <layer-tree-layer id="rechtsstatus_ee3be63d_36d9_4d17_80c3_5961d1e76699" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;rechtsstatus&quot; sql=" name="rechtsstatus" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="regionalgeologische_einheit_7a11c81b_60a8_4add_bddf_8dabeebd785a" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;regionalgeologische_einheit&quot; sql=" name="regionalgeologische_einheit" providerKey="postgres">
+      <layer-tree-layer id="regionalgeologische_einheit_7a11c81b_60a8_4add_bddf_8dabeebd785a" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;regionalgeologische_einheit&quot; sql=" name="regionalgeologische_einheit" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="schutzwuerdigkeit_05375ea1_3922_4296_aa3b_5beb2b59f5b1" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;schutzwuerdigkeit&quot; sql=" name="schutzwuerdigkeit" providerKey="postgres">
+      <layer-tree-layer id="schutzwuerdigkeit_05375ea1_3922_4296_aa3b_5beb2b59f5b1" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;schutzwuerdigkeit&quot; sql=" name="schutzwuerdigkeit" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="bedeutung_16c85293_2ce3_4aea_a368_e5e193284581" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;bedeutung&quot; sql=" name="bedeutung" providerKey="postgres">
+      <layer-tree-layer id="bedeutung_16c85293_2ce3_4aea_a368_e5e193284581" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;bedeutung&quot; sql=" name="bedeutung" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="anthropogene_gefaehrdung_800ceb81_2d5b_42ef_a6ac_e54339852041" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;anthropogene_gefaehrdung&quot; sql=" name="anthropogene_gefaehrdung" providerKey="postgres">
+      <layer-tree-layer id="anthropogene_gefaehrdung_800ceb81_2d5b_42ef_a6ac_e54339852041" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;anthropogene_gefaehrdung&quot; sql=" name="anthropogene_gefaehrdung" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologische_schicht_96594e9f_c756_481f_bde6_d450bfc6d8f5" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_schicht&quot; sql=" name="geologische_schicht" providerKey="postgres">
+      <layer-tree-layer id="geologische_schicht_96594e9f_c756_481f_bde6_d450bfc6d8f5" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_schicht&quot; sql=" name="geologische_schicht" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologische_serie_505aaec6_7300_4dd1_83d9_25ea79b0116c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_serie&quot; sql=" name="geologische_serie" providerKey="postgres">
+      <layer-tree-layer id="geologische_serie_505aaec6_7300_4dd1_83d9_25ea79b0116c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_serie&quot; sql=" name="geologische_serie" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologische_stufe_e891c722_0ee0_45f6_b90d_0e35a8221c04" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_stufe&quot; sql=" name="geologische_stufe" providerKey="postgres">
+      <layer-tree-layer id="geologische_stufe_e891c722_0ee0_45f6_b90d_0e35a8221c04" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_stufe&quot; sql=" name="geologische_stufe" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologisches_system_cada8878_b3f3_475b_9663_4efa097841f2" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologisches_system&quot; sql=" name="geologisches_system" providerKey="postgres">
+      <layer-tree-layer id="geologisches_system_cada8878_b3f3_475b_9663_4efa097841f2" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologisches_system&quot; sql=" name="geologisches_system" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="entstehung_687e64db_43e0_4914_a15b_cbd2f8afe78d" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;entstehung&quot; sql=" name="entstehung" providerKey="postgres">
+      <layer-tree-layer id="entstehung_687e64db_43e0_4914_a15b_cbd2f8afe78d" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;entstehung&quot; sql=" name="entstehung" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="zustand_2065b389_10f3_4dfa_ae38_9f912eda9a6c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;zustand&quot; sql=" name="zustand" providerKey="postgres">
+      <layer-tree-layer id="zustand_2065b389_10f3_4dfa_ae38_9f912eda9a6c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;zustand&quot; sql=" name="zustand" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="eiszeit_a0eb15e2_fb00_4be9_a3a1_0776c83d462e" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;eiszeit&quot; sql=" name="eiszeit" providerKey="postgres">
+      <layer-tree-layer id="eiszeit_a0eb15e2_fb00_4be9_a3a1_0776c83d462e" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;eiszeit&quot; sql=" name="eiszeit" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="dokumententyp_455c011a_4517_49e7_81b5_da8e8878a806" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;dokumententyp&quot; sql=" name="dokumententyp" providerKey="postgres">
+      <layer-tree-layer id="dokumententyp_455c011a_4517_49e7_81b5_da8e8878a806" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;dokumententyp&quot; sql=" name="dokumententyp" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="oberflaechenform_aufschluss_fa8c3fca_ace0_4faf_b7d6_d055c21b0243" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_aufschluss&quot; sql=" name="oberflaechenform_aufschluss" providerKey="postgres">
+      <layer-tree-layer id="oberflaechenform_aufschluss_fa8c3fca_ace0_4faf_b7d6_d055c21b0243" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_aufschluss&quot; sql=" name="oberflaechenform_aufschluss" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="oberflaechenform_landschaftsform_326113b8_93ce_4ee1_9fa5_89af6965fb71" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_landschaftsform&quot; sql=" name="oberflaechenform_landschaftsform" providerKey="postgres">
+      <layer-tree-layer id="oberflaechenform_landschaftsform_326113b8_93ce_4ee1_9fa5_89af6965fb71" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;oberflaechenform_landschaftsform&quot; sql=" name="oberflaechenform_landschaftsform" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="gesteinsart_0a60dae5_d332_411c_8fd1_02ca3dd2d3f9" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;gesteinsart&quot; sql=" name="gesteinsart" providerKey="postgres">
+      <layer-tree-layer id="gesteinsart_0a60dae5_d332_411c_8fd1_02ca3dd2d3f9" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;gesteinsart&quot; sql=" name="gesteinsart" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geowissenschaftlicher_wert_74e13d39_c571_48de_806f_bbb072a74d52" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geowissenschaftlicher_wert&quot; sql=" name="geowissenschaftlicher_wert" providerKey="postgres">
+      <layer-tree-layer id="geowissenschaftlicher_wert_74e13d39_c571_48de_806f_bbb072a74d52" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geowissenschaftlicher_wert&quot; sql=" name="geowissenschaftlicher_wert" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="petrografie_bba14e15_6ecd_4347_84d2_9346e540c731" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;petrografie&quot; sql=" name="petrografie" providerKey="postgres">
+      <layer-tree-layer id="petrografie_bba14e15_6ecd_4347_84d2_9346e540c731" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;petrografie&quot; sql=" name="petrografie" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="rechtsstatus_ee3be63d_36d9_4d17_80c3_5961d1e76699" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;rechtsstatus&quot; sql=" name="rechtsstatus" providerKey="postgres">
+      <layer-tree-layer id="rechtsstatus_ee3be63d_36d9_4d17_80c3_5961d1e76699" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;rechtsstatus&quot; sql=" name="rechtsstatus" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="regionalgeologische_einheit_7a11c81b_60a8_4add_bddf_8dabeebd785a" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;regionalgeologische_einheit&quot; sql=" name="regionalgeologische_einheit" providerKey="postgres">
+      <layer-tree-layer id="regionalgeologische_einheit_7a11c81b_60a8_4add_bddf_8dabeebd785a" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;regionalgeologische_einheit&quot; sql=" name="regionalgeologische_einheit" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="schutzwuerdigkeit_05375ea1_3922_4296_aa3b_5beb2b59f5b1" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;schutzwuerdigkeit&quot; sql=" name="schutzwuerdigkeit" providerKey="postgres">
+      <layer-tree-layer id="schutzwuerdigkeit_05375ea1_3922_4296_aa3b_5beb2b59f5b1" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;schutzwuerdigkeit&quot; sql=" name="schutzwuerdigkeit" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="bedeutung_16c85293_2ce3_4aea_a368_e5e193284581" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;bedeutung&quot; sql=" name="bedeutung" providerKey="postgres">
+      <layer-tree-layer id="bedeutung_16c85293_2ce3_4aea_a368_e5e193284581" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;bedeutung&quot; sql=" name="bedeutung" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="anthropogene_gefaehrdung_800ceb81_2d5b_42ef_a6ac_e54339852041" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;anthropogene_gefaehrdung&quot; sql=" name="anthropogene_gefaehrdung" providerKey="postgres">
+      <layer-tree-layer id="anthropogene_gefaehrdung_800ceb81_2d5b_42ef_a6ac_e54339852041" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;anthropogene_gefaehrdung&quot; sql=" name="anthropogene_gefaehrdung" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologische_schicht_96594e9f_c756_481f_bde6_d450bfc6d8f5" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_schicht&quot; sql=" name="geologische_schicht" providerKey="postgres">
+      <layer-tree-layer id="geologische_schicht_96594e9f_c756_481f_bde6_d450bfc6d8f5" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_schicht&quot; sql=" name="geologische_schicht" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologische_serie_505aaec6_7300_4dd1_83d9_25ea79b0116c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_serie&quot; sql=" name="geologische_serie" providerKey="postgres">
+      <layer-tree-layer id="geologische_serie_505aaec6_7300_4dd1_83d9_25ea79b0116c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_serie&quot; sql=" name="geologische_serie" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologische_stufe_e891c722_0ee0_45f6_b90d_0e35a8221c04" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_stufe&quot; sql=" name="geologische_stufe" providerKey="postgres">
+      <layer-tree-layer id="geologische_stufe_e891c722_0ee0_45f6_b90d_0e35a8221c04" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologische_stufe&quot; sql=" name="geologische_stufe" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="geologisches_system_cada8878_b3f3_475b_9663_4efa097841f2" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologisches_system&quot; sql=" name="geologisches_system" providerKey="postgres">
+      <layer-tree-layer id="geologisches_system_cada8878_b3f3_475b_9663_4efa097841f2" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;geologisches_system&quot; sql=" name="geologisches_system" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="entstehung_687e64db_43e0_4914_a15b_cbd2f8afe78d" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;entstehung&quot; sql=" name="entstehung" providerKey="postgres">
+      <layer-tree-layer id="entstehung_687e64db_43e0_4914_a15b_cbd2f8afe78d" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;entstehung&quot; sql=" name="entstehung" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="zustand_2065b389_10f3_4dfa_ae38_9f912eda9a6c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;zustand&quot; sql=" name="zustand" providerKey="postgres">
+      <layer-tree-layer id="zustand_2065b389_10f3_4dfa_ae38_9f912eda9a6c" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;zustand&quot; sql=" name="zustand" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer id="petrografie_erratiker_3bda3688_4f96_41de_9c8f_2ac6aa654340" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;petrografie_erratiker&quot; sql=" name="petrografie_erratiker" providerKey="postgres">
+      <layer-tree-layer id="petrografie_erratiker_3bda3688_4f96_41de_9c8f_2ac6aa654340" checked="Qt::Checked" expanded="1" source="dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table=&quot;afu_geotope_pub&quot;.&quot;petrografie_erratiker&quot; sql=" name="petrografie_erratiker" providerKey="postgres">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -2212,7 +2212,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>anthropogene_gefaehrdung_800ceb81_2d5b_42ef_a6ac_e54339852041</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."anthropogene_gefaehrdung" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."anthropogene_gefaehrdung" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2379,7 +2379,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>bedeutung_16c85293_2ce3_4aea_a368_e5e193284581</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."bedeutung" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."bedeutung" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2546,7 +2546,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>dokumententyp_455c011a_4517_49e7_81b5_da8e8878a806</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."dokumententyp" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."dokumententyp" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2713,7 +2713,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>eiszeit_a0eb15e2_fb00_4be9_a3a1_0776c83d462e</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."eiszeit" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."eiszeit" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2880,7 +2880,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>entstehung_687e64db_43e0_4914_a15b_cbd2f8afe78d</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."entstehung" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."entstehung" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3047,7 +3047,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>geologische_schicht_96594e9f_c756_481f_bde6_d450bfc6d8f5</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologische_schicht" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologische_schicht" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3214,7 +3214,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>geologische_serie_505aaec6_7300_4dd1_83d9_25ea79b0116c</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologische_serie" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologische_serie" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3381,7 +3381,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>geologische_stufe_e891c722_0ee0_45f6_b90d_0e35a8221c04</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologische_stufe" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologische_stufe" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3548,7 +3548,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>geologisches_system_cada8878_b3f3_475b_9663_4efa097841f2</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologisches_system" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geologisches_system" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3721,7 +3721,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1258534.10499999998137355</ymax>
       </extent>
       <id>geotope_aufschluss_7e01f829_ee8e_4b50_a9f6_111f07de2ad5</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_aufschluss" (geometrie) sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_aufschluss" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4702,7 +4702,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1257720.47418915992602706</ymax>
       </extent>
       <id>geotope_erratiker_ffbfcebb_3e22_44e1_8f7f_db4fdc79385c</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_erratiker" (geometrie) sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_erratiker" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5600,7 +5600,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1254405.42748822993598878</ymax>
       </extent>
       <id>geotope_fundstelle_grabung_b8b7aa72_cdcd_4c1a_8bc3_77de16cc6ad3</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_fundstelle_grabung" (geometrie) sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_fundstelle_grabung" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6585,7 +6585,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1258776.38164243008941412</ymax>
       </extent>
       <id>geotope_hoehle_c690ca48_5c64_4950_87e3_1cb3fa4cbfce</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_hoehle" (geometrie) sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_hoehle" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7335,7 +7335,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1258877.95900000003166497</ymax>
       </extent>
       <id>geotope_landschaftsform_89933efd_facd_4043_bf5d_50596d1b2d0c</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_landschaftsform" (geometrie) sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_landschaftsform" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8124,7 +8124,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1249306.21692010993137956</ymax>
       </extent>
       <id>geotope_quelle_dffd0651_53d3_4372_9413_b3062385de4c</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_quelle" (geometrie) sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geotope_quelle" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8849,7 +8849,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>geowissenschaftlicher_wert_74e13d39_c571_48de_806f_bbb072a74d52</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geowissenschaftlicher_wert" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."geowissenschaftlicher_wert" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9016,7 +9016,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>gesteinsart_0a60dae5_d332_411c_8fd1_02ca3dd2d3f9</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."gesteinsart" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."gesteinsart" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9183,7 +9183,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>landschaftstyp_1c8def3d_0817_4483_8f1f_fe68d5f16fe1</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."landschaftstyp" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."landschaftstyp" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9350,7 +9350,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>oberflaechenform_aufschluss_fa8c3fca_ace0_4faf_b7d6_d055c21b0243</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."oberflaechenform_aufschluss" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."oberflaechenform_aufschluss" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9517,7 +9517,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>oberflaechenform_landschaftsform_326113b8_93ce_4ee1_9fa5_89af6965fb71</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."oberflaechenform_landschaftsform" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."oberflaechenform_landschaftsform" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9684,7 +9684,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>petrografie_bba14e15_6ecd_4347_84d2_9346e540c731</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."petrografie" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."petrografie" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9851,7 +9851,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>petrografie_erratiker_3bda3688_4f96_41de_9c8f_2ac6aa654340</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."petrografie_erratiker" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."petrografie_erratiker" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10018,7 +10018,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>rechtsstatus_ee3be63d_36d9_4d17_80c3_5961d1e76699</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."rechtsstatus" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."rechtsstatus" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10185,7 +10185,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>regionalgeologische_einheit_7a11c81b_60a8_4add_bddf_8dabeebd785a</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."regionalgeologische_einheit" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."regionalgeologische_einheit" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10352,7 +10352,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>schutzwuerdigkeit_05375ea1_3922_4296_aa3b_5beb2b59f5b1</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."schutzwuerdigkeit" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."schutzwuerdigkeit" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10519,7 +10519,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" geometry="No geometry" readOnly="0" type="vector" autoRefreshEnabled="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="">
       <id>zustand_2065b389_10f3_4dfa_ae38_9f912eda9a6c</id>
-      <datasource>dbname='pub' host=geodb.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."zustand" sql=</datasource>
+      <datasource>dbname='pub' host=geodb-t.rootso.org port=5432 authcfg=sogis00 key='itfcode' checkPrimaryKeyUnicity='0' table="afu_geotope_pub"."zustand" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
